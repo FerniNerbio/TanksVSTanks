@@ -1,0 +1,2 @@
+C:\Users\mikel\Desktop\TanksVSTanks\Tanks\Intermediate\Build\Win64\UE4Editor\Development\Tanks\Definitions.Tanks.h
+C:\Users\mikel\Desktop\TanksVSTanks\Tanks\Source\Tanks\Tanks.h
